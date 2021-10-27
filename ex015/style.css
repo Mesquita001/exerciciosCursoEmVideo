@@ -1,0 +1,17 @@
+
+body {
+    background-color: aqua;
+    font-family: sans-serif;
+    font-size: 15px;
+
+}
+h1{
+    color: brown;
+}
+h2{
+    color: chocolate;
+    
+}
+p{
+    text-align: justify;
+}
