@@ -22,3 +22,10 @@ box-shadow = sombreamento da caixa, lado direito, baixo, espalhamentoda sombra, 
 
 text-shadow =  sobreamento texto , ---
 
+FONTES
+
+serifadas = com pernas simulando linhas
+sans-serif = sem serif
+monoespacadas= com mesmo tamanho das letras
+handwriting = escritas a mão
+display = fontes comemorataivas sem ordens
