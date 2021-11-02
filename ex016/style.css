@@ -7,10 +7,25 @@ body{
     background-image: linear-gradient(to right,#f7b538,#db7c26);
 
 }
+
+h1 {
+    color: #C87E37;
+    text-align: center;
+    text-shadow: 2px 2px 2px #975f2b94;
+}
+
+h2 {
+    color: #F7B538;
+}
+
 p {
     text-align: justify;
 }
 main{
+    border-radius: 10px;
     background-color: white;
     width: 600px;
+    padding:10px;
+    margin: auto;
+    box-shadow: 5px 5px 15px #994636;
 }

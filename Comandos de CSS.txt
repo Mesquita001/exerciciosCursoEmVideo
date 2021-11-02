@@ -1,0 +1,24 @@
+Nome dos comandos em CSS
+
+* = configurações globais
+
+altura do site = 100%
+
+text-aling = ajustar parágrafos
+
+background = fundo do site
+
+background image:linear-gradient(to right,) = fundo em degradê
+
+width = largura
+
+pading = espacamento da caixa
+
+margin: auto = centraliza a caixa na tela independente do tamanho
+
+border radius = ciscuferencia dos cantos da borda
+
+box-shadow = sombreamento da caixa, lado direito, baixo, espalhamentoda sombra, e cor
+
+text-shadow =  sobreamento texto , ---
+
