@@ -29,3 +29,5 @@ sans-serif = sem serif
 monoespacadas= com mesmo tamanho das letras
 handwriting = escritas a mão
 display = fontes comemorataivas sem ordens
+font family = familia das fontes e seus grupos
+
